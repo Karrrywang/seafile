@@ -1,0 +1,3 @@
+[submodule "seafobj"]
+	path = seafobj
+	url = https://github.com/Karrrywang/seafobj.git
